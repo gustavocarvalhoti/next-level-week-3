@@ -50,7 +50,7 @@
 
 ## :wrench: Tools
 
-- **[VisualStudio Code](https://code.visualstudio.com/)**
+- **[IntelliJ](https://www.jetbrains.com/)**
 - **[Insomnia](https://insomnia.rest/)**
 - **[Google Chrome](https://www.google.com/chrome/)**
 - **[DBeaver](https://dbeaver.io/)**
