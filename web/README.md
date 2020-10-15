@@ -16,7 +16,8 @@ yarn add react-icons <br/>
 yarn add react-router-dom <br/>
 yarn add @types/react-router-dom -D <br/>
 yarn add leaflet react-leaflet <- For use Maps <br/
-yarn add @types/react-leaflet
+yarn add @types/react-leaflet <br/
+yarn add axios
 
 ### About
 
