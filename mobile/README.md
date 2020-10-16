@@ -18,5 +18,5 @@ yarn add @react-navigation/stack <br/>
 
 ### About
 ### Emulator Installed with Android Studio
-cd /home/gustavo/Android/Sdk/emulator
+cd /home/gustavo/Android/Sdk/emulator <br/>
 sudo ./emulator -avd Pixel_2_API30
