@@ -2,7 +2,6 @@
 In the project directory, you can run:
 
 ### `yarn start`
-yarn dev <br/>
 
 ### `yarn install`
 expo update
