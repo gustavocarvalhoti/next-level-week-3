@@ -14,8 +14,14 @@ expo install @expo-google-fonts/nunito expo-font <- Fonts google <br/>
 yarn add @react-navigation/native <- For navigation <br/>
 expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view <br/>
 yarn add @react-navigation/stack <br/>
+yarn add axios <br/>
+yarn add expo-image-picker <br/>
 
 ### About
 ### Emulator Installed with Android Studio
 cd /home/gustavo/Android/Sdk/emulator <br/>
-sudo ./emulator -avd Pixel_2_API30
+sudo ./emulator -avd Pixel_2_API30 <br/>
+adb reverse tcp:3333 tcp:3333 <- For access backend <br/>
+
+### Extras
+https://blog.rocketseat.com.br/react-native-shimmer/ <br/>
